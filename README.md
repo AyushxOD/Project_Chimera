@@ -14,7 +14,7 @@ The project followed a four-step data science workflow:
 
 
 
-[Image of a 4-step process flowchart]
+
 
 **1. Data Collection** -> **2. Exploratory Analysis (EDA)** -> **3. Feature Engineering** -> **4. Predictive Modeling**
 
