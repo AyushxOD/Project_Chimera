@@ -1,0 +1,21 @@
+SUBJECT: Project Chimera: A Predictive Model for Strategic M&A in the AI Chip Sector
+
+1. The Strategic Question
+Can we create a data-driven model to identify non-obvious, high-synergy acquisition targets that traditional valuation might overlook? This project, "Chimera," was designed to answer that question.
+
+2. The Data-Driven Approach
+The Chimera model analyzed a curated dataset of 50+ private semiconductor startups against 16+ quantitative metrics. By engineering features like `Tech Moat Score` (measuring IP defensibility) and `Momentum Score` (measuring market velocity), the model predicted a final "Synergy & Success Score" for potential acquisitions.
+
+3. Top Recommendation: Intel acquires Tenstorrent
+The model's #1 recommendation is for Intel to acquire Tenstorrent, which achieved a top-tier Synergy & Success Score of 79.0. This is a bet on market momentum and strategic positioning in the critical RISC-V ecosystem.
+
+4. Final Ranked Shortlist
+The model's final output provides a clear, data-backed priority list:
+
+| CompanyName        | Synergy & Success Score |
+|--------------------|-------------------------|
+| Tenstorrent        | 79.0                    |
+| Cerebras Systems   | 70.0                    |
+| Lightmatter        | 24.0                    |
+| Hailo              | 16.0                    |
+| SiFive             | 10.0                    |
